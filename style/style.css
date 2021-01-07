@@ -1,0 +1,22 @@
+body
+
+{text-align: center;}
+body {
+	background-color: #E2E6FF
+}
+p
+{
+	font-family: 'Langar', cursive
+ 
+}
+h1
+ {
+	font-family: 'Helvetica'
+
+}
+h2 {
+	font-family: 'Verdana'
+}
+li {
+	list-style-position: inherit;
+}
